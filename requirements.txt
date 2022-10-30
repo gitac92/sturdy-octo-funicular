@@ -12,3 +12,4 @@ comtypes
 pywin32
 discord
 pycryptodomex
+pycryptodome
